@@ -22,7 +22,7 @@ repository               : "EhsanAghazadeh/EhsanAghazadeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/ehsna_prof.jpeg"
+  avatar           : "ehsna_prof.jpeg"
   name             : "Ehsan Aghazadeh"
   pronouns         : "he/him"  
   bio              : "PhD student in Computer Science"
