@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-03'
 papers:
   ysSewR8AAAAJ:2osOgNQ5qMEC:
     citations: 46
     title: 'DecompX: Explaining Transformers Decisions by Propagating Token Decomposition'
     year: '2023'
   ysSewR8AAAAJ:9yKSN-GCB0IC:
-    citations: 18
+    citations: 19
     title: 'BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning'
     year: '2022'
   ysSewR8AAAAJ:IjCSPb-OGe4C:
@@ -22,11 +22,11 @@ papers:
     title: Quantifying reliance on external information over parametric knowledge during Retrieval Augmented Generation (RAG) using mechanistic analysis
     year: '2024'
   ysSewR8AAAAJ:d1gkVwhDpl0C:
-    citations: 80
+    citations: 82
     title: 'Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages'
     year: '2022'
   ysSewR8AAAAJ:qjMakFHDy7sC:
-    citations: 22
+    citations: 23
     title: 'From rags to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries'
     year: '2026'
   ysSewR8AAAAJ:u-x6o8ySG0sC:
