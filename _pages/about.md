@@ -25,10 +25,14 @@ latest_posts:
   limit: 3
 ---
 
-Hi! I'm a PhD student at UMass Amherst in Computer Science. I'm working under the supervision of [Hossein Pishro-Nik](https://infosec.cs.umass.edu/person/pishro-nik-hossein) and [Hedyeh Beyhaghi](https://hedyehbeyhaghi.github.io/).
+Hi! I'm a PhD student at UMass Amherst in Computer Science, advised by [Hossein Pishro-Nik](https://infosec.cs.umass.edu/person/pishro-nik-hossein) and [Hedyeh Beyhaghi](https://hedyehbeyhaghi.github.io/).
 
-My research focuses on Large Language Models (LLMs) from both practical and theoretical perspectives. More specifically, I work on:
+My research spans both practical and theoretical aspects of Large Language Models (LLMs) and AI systems. I'm currently working on:
 
-- **Test-time scaling** and **mixture of agents/experts**
+- **Reliability of multi-agent AI systems** — modeling agent networks as factor graphs with LDPC-inspired density evolution to predict failure modes and optimize architectures.
+- **Test-time scaling & self-consistency** — CGES, a Bayesian framework that achieves 25–40% reduction in LLM inference cost with no accuracy loss.
+- **Ergodic trajectory design** — provably coverage-optimal trajectory planning via conditional flow matching, with zero-shot deployment across multi-agent fleets.
 
-Previously, I worked on explainability of Language Models and efficient fine-tuning.
+Previously, I worked on **mechanistic interpretability** of language models (probing, token attribution, hallucination analysis in VLMs) and **efficient training** (gradient-based data pruning for NLP).
+
+I did my undergraduate at the University of Tehran and have been a reviewer at ACL, NAACL, and EACL.

@@ -9,7 +9,7 @@ last_name: Aghazadeh
 contact_note: >
   The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student in Computer Science at UMass Amherst. Research focuses on Large Language Models.
+  PhD student in Computer Science at UMass Amherst. Research focuses on LLMs, multi-agent AI systems, test-time scaling, and ML theory.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
