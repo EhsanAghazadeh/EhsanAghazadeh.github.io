@@ -36,3 +36,7 @@ My research spans both practical and theoretical aspects of Large Language Model
 Previously, I worked on **mechanistic interpretability** of language models (probing, token attribution, hallucination analysis in VLMs) and **efficient training** (gradient-based data pruning for NLP).
 
 I did my undergraduate at the University of Tehran and have been a reviewer at ACL, NAACL, and EACL.
+
+<div class="alert alert-info" role="alert">
+  🤝 I'm open to collaborations in <strong>multi-agent systems</strong>, <strong>RL for LLMs</strong>, and <strong>mechanistic interpretability</strong> — feel free to reach out!
+</div>
