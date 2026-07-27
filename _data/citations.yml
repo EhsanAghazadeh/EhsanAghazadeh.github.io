@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-27'
 papers:
   ysSewR8AAAAJ:2osOgNQ5qMEC:
-    citations: 47
+    citations: 48
     title: 'DecompX: Explaining Transformers Decisions by Propagating Token Decomposition'
     year: '2023'
   ysSewR8AAAAJ:9yKSN-GCB0IC:
-    citations: 19
+    citations: 20
     title: 'BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning'
     year: '2022'
   ysSewR8AAAAJ:IjCSPb-OGe4C:
-    citations: 8
+    citations: 7
     title: A Comprehensive Analysis for Visual Object Hallucination in Large Vision-Language Models
     year: '2025'
   ysSewR8AAAAJ:Tyk-4Ss8FVUC:
@@ -26,7 +26,7 @@ papers:
     title: 'On the Reliability of Networks of AI Agents: Density Evolution, Stopping Sets, and Architecture Optimization'
     year: '2026'
   ysSewR8AAAAJ:d1gkVwhDpl0C:
-    citations: 84
+    citations: 86
     title: 'Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages'
     year: '2022'
   ysSewR8AAAAJ:qjMakFHDy7sC:
